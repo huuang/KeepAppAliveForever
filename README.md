@@ -11,6 +11,19 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+### Version
+
+iOS 9.0+
+
+### Capability
+
+Follow below steps to make your app has background modes capability:
+1. Select the project from the Project navigator.
+2. Click the app target.
+3. Select the Capabilities tab.
+4. Turn the Background Modes switch on.
+5. Check the `Audio, AirPlay, and Picture in Picture` checkbox.
+
 ## Installation
 
 KeepAppAliveForever is available through [CocoaPods](https://cocoapods.org). To install
