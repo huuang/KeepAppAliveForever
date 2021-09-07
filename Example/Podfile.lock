@@ -1,0 +1,16 @@
+PODS:
+  - KeepAppAliveForever (1.0.0)
+
+DEPENDENCIES:
+  - KeepAppAliveForever (from `../`)
+
+EXTERNAL SOURCES:
+  KeepAppAliveForever:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeepAppAliveForever: a5b4fcac5e7800a7e938c8d505b66a191761ec8c
+
+PODFILE CHECKSUM: 541c6e25e02437edf25c12d3a438e5143d849895
+
+COCOAPODS: 1.10.1
